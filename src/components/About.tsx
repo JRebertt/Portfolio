@@ -25,10 +25,10 @@ export function About() {
         viewport={{ once: true }}
         src="https://i.ibb.co/6RGmnWz/Imagem-do-Whats-App-de-2023-05-24-s-21-00-58.jpg"
         alt=""
-        className="-mb-24 md:mb-0 flex-shrink-0 w-40 h-40 rounded-full object-cover md:rounded-lg md:w-64 md:h-95 xl:w-[500px] xl:h-[600px]"
+        className="-mb-28 md:mb-0 flex-shrink-0 w-32 h-32 rounded-full object-cover md:rounded-lg md:w-2/5 md:h-2/5 xl:w-[400px] xl:h-[400px]"
       />
-      <div className="space-y-8 px-0 md:px-10">
-        <h4 className="text-3xl font-semibold">
+      <div className="space-y-10 px-0 md:px-10">
+        <h4 className="text-2xl font-semibold">
           Here is a{" "}
           <span className="underline decoration-[#F7AB0A]">little</span>{" "}
           background
