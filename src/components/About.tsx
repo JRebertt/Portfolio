@@ -7,7 +7,7 @@ export function About() {
       initial={{ opacity: 0 }}
       whileInView={{ opacity: 1 }}
       transition={{ duration: 1.5 }}
-      className="relative flex flex-col h-screen text-center md:flex-row md:text-left max-w-7xl px-10 justify-evenly mx-auto items-center"
+      className="relative flex flex-col h-screen text-center mt-24 md:flex-row md:text-left max-w-7xl px-10 justify-evenly mx-auto items-center"
     >
       <h3 className="absolute top-20 uppercase tracking-[20px] text-gray-500 text-2xl">
         About
